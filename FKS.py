@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#Hasher v 2.1.0 I'M FINE project TD
 from hashlib import *
 from sys import platform
 if platform in ['linux','linux2']:
@@ -138,3 +137,4 @@ while True:
             print('U have error in your inputs')
     else:
         print("U have error in your inputs")
+        
