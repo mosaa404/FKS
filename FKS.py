@@ -7,9 +7,7 @@ if platform in ['linux','linux2']:
     F = '\033[32;1m'
     n = '\033[31;1m'
 else:
-    w = ''
-    F = ''
-    n = ''
+    w = F = n = ''
 flag = False
 def out(x,y,z):   # x = flag & y = line & z = want2
     if x == True:
