@@ -9,7 +9,7 @@
     $$ |            $$\       $$ | \$$\       $$\       \$$$$$$  |
     \__|            \__|      \__|  \__|      \__|       \______/
   
-  I love Jordan & I'm fine
+  I love  & I'm fine
   
                                                                          [ #Developed_by_Mo0Ssaa ]
                                                                          [ Twitter:https://twitter.com/AhmedMosaa18 ]
